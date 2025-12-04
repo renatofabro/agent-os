@@ -18,7 +18,9 @@ Use it with:
 
 ### Documentation & Installation
 
-Docs, installation, usage, & best practices 👉 [It's all here](https://buildermethods.com/agent-os)
+📖 **[ARCHITECTURE.md](ARCHITECTURE.md)** - Detailed explanation of how Agent OS works and where prompt definitions are located
+
+📚 **[Official Documentation](https://buildermethods.com/agent-os)** - Installation, usage, & best practices
 
 ---
 
